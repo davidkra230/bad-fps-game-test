@@ -1,7 +1,7 @@
 const BlockPistol:any = {};
 
 function multiply(one:number,two:number) {
-  return one * two;  
+return one * two;  
 };
 
 BlockPistol.LeftArmCFrame = new CFrame(1,-0.5,1);
